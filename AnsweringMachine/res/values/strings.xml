@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="enabled">Enabled?</string>
+    <string name="which_contacts">Answer Which Calls?</string>
+    <string name="delay">Answer after ?</string>
+    <string name="use_speakerphone">Force Speakerphone?</string>
+    <string name="headset_only">Only Using BT Headset?</string>
+    <string name="no_second_call">Don\'t Answer if In Call?</string>
+    <string name="app_name">Android Based Answering Machine</string>
+    <string name="about_title">About</string>
+    <string name="sendMessage">Send Message Automatically</string>
+    <string name="about_message">Android Based Answering Machine\n
+            Copyright © 2014\n\nA simple Android application
+             that automatically answers incoming calls and saves an audio message in case the owner is not around,Developed by:\n   1.Hadera Zeray\n   2.Hagos Alema\n   3.Hailu Nigusse
+             \n\nIt is a free software.\nAny one with android enables smartphone can take and enjoy it.\n Contact Info:\n     1. hadera2002@gmail.com\n     2. hagusha.002@gmail.com\n     3. hailumit@gmail.com.</string>
+    <string name="notification_title">Answering Machine enabled</string>
+    <string name="notification_text">Select to configure or disable.</string>
+
+</resources>
